@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Cool! I have a readme now! Happy to see you here!
+
+Will update this as I go❣️
+
 <!--
 **victordevera24/victordevera24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
